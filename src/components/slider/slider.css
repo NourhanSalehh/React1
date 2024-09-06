@@ -1,0 +1,16 @@
+
+.photo{
+        height: 650px !important;
+}
+
+.carousel-caption h1 , h2 {
+        color: var(--main-color);
+        font-weight: bold;
+        text-shadow: 0 0 3px #000;
+}
+
+.carousel-caption h3{
+        letter-spacing: 1px;
+        padding: 5px; 
+        text-shadow: 0 0 3px #000;
+}

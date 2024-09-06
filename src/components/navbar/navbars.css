@@ -1,0 +1,26 @@
+img{
+        width: 90px;
+}
+
+.navbar-nav{
+        margin-top: 17px;  
+        margin-left: 700px;  
+}
+
+div .me-auto.navbar-nav {
+        float: right;
+}
+
+div .me-auto.navbar-nav a{
+        width: 100px;
+        color: var(--main-color);
+        font-weight: bold;
+        letter-spacing: 1px;
+        font-size: 18px;
+}
+
+div .me-auto.navbar-nav a:hover ,
+div .me-auto.navbar-nav a:focus{
+        color: var(--sec-color);
+}
+

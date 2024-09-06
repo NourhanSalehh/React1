@@ -1,0 +1,28 @@
+.about-section{
+        background-color: var(--sec-color);
+}
+
+.one
+, .two {
+        background-color: rgb(55, 53, 53);
+}
+
+.one img {
+        width: 280px;
+        padding-top:15px ;
+        -webkit-transform: scale(1.4);
+	transform: scale(1.4);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+.one img:hover {
+        -webkit-transform: scale(1);
+	transform: scale(1);
+}
+
+.two h3{
+        color: var(--main-color);
+        padding-top: 15px;
+}
+
